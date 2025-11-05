@@ -2,6 +2,12 @@ package entities;
 
 import java.time.LocalDate;
 
+/**
+ * clase SeguroVehicular (B)
+ * esta clase representa el seguro de un vehículo
+ * es la clase referenciada en la relación 1→1 unidireccional
+ */
+
 public class SeguroVehicular {
 
     private Long id;
